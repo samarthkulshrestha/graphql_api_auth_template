@@ -21,7 +21,7 @@ git clone https://github.com/samarthkulshrestha/graphql_api_auth_template.git
     npm install
     ```
 
-    -   yarn
+    -   or yarn
         > [install yarn](https://yarnpkg.com/)
 
     ```
