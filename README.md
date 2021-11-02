@@ -12,7 +12,7 @@ if you want to use this template,
 git clone https://github.com/samarthkulshrestha/graphql_api_auth_template.git
 ```
 
--   `cd` into the folder that you cloned the repository folder, and run
+-   `cd` into the repository folder, and run
 
     -   either with npm
         > [install node and npm](https://nodejs.dev/)
@@ -42,7 +42,7 @@ git clone https://github.com/samarthkulshrestha/graphql_api_auth_template.git
     yarn dev
     ```
 
--   you will see a bunch of output, that is the logging, and the url will pe output in the end.
+-   you will see a bunch of output, that is the logging, and the url will be output in the end.
     visit the URL in your browser and you will see the GraphQL Playground.
 
 thanks, :D
